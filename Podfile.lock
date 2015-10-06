@@ -33,10 +33,10 @@ DEPENDENCIES:
   - TUSafariActivity (~> 1.0.1)
 
 SPEC CHECKSUMS:
-  AFNetworking: 0f54cb5d16ce38c1b76948faffb8d5fb705021c7
-  ARChromeActivity: d8471d0f78b7fcc1de57929cfc1751b3a7f58bad
-  PLCrashReporter: 979cd3c5bda33655f4df58fa6219d067183d7a7e
-  TBXML: a279440030ba55c40e1455cafba3b0a44e1963d4
-  TUSafariActivity: 63c6b0584d1f0a731e955c0e4d9c89cde63bedc2
+  AFNetworking: 96ac9bf3eda33582701cb1fcc5b896aa1e20311e
+  ARChromeActivity: 9064d94803338d3377f3e1013a8e8f4821d7daf1
+  PLCrashReporter: 655201ef69223866e230a25c973c8f39bcc4b722
+  TBXML: 9f9dadb239f2f2af1dadb87fe43a0ce6e479379a
+  TUSafariActivity: 32e3e5dc9123e5533a42d41e1c3246d12911a4a2
 
-COCOAPODS: 0.35.0
+COCOAPODS: 0.38.2

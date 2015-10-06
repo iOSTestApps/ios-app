@@ -12,9 +12,9 @@
 #import "WALSettings.h"
 #import "WALSupportHelper.h"
 #import "WALCrashDataProtocol.h"
-#import <PLCrashReporter/PLCrashReporter.h>
-#import <PLCrashReporter/PLCrashReport.h>
-#import <PLCrashReporter/PLCrashReportTextFormatter.h>
+#import <PLCrashReporter.h>
+#import <PLCrashReport.h>
+#import <PLCrashReportTextFormatter.h>
 
 @interface WALAppDelegate ()
 @property (weak, nonatomic) UIBarButtonItem *lastBarButtonItem;
